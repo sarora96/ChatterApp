@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "143336004876",
+    "firebase_url": "https://chatter-efd4d.firebaseio.com",
+    "project_id": "chatter-efd4d",
+    "storage_bucket": "chatter-efd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143336004876:android:2acdaf77a94d967f",
+        "android_client_info": {
+          "package_name": "com.sarthakarora.chatterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143336004876-6fcu3kh3bso6eg0qlhvsrdsqmulbtcve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNSnsJmbKawOXxmQopyCv8eVWJ-3IbuP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
